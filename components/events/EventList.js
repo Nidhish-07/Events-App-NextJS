@@ -3,7 +3,7 @@ import EventItem from "./EventItem";
 
 const EventList = (props) => {
   return (
-    <ul>
+    <ul className="w-[90%] max-w-2xl my-20 mx-auto ">
       {props.items.map((item) => {
         return (
           <EventItem

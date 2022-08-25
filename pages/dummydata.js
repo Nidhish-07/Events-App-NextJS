@@ -1,31 +1,31 @@
 const DUMMY_EVENTS = [
   {
     id: "e1",
-    title: "Programming for everyone",
+    title: "Press conference",
     description:
-      "Everyone can learn to code! Yes, everyone! In this live event, we are going to go through all the key basics and get you started with programming as well.",
+      "lorem epsum",
     location: "Somestreet 25, 12345 San Somewhereo",
-    date: "2021-05-12",
+    date: "2022-11-12",
     image: "images/press-conference.png",
     isFeatured: false,
   },
   {
     id: "e2",
-    title: "Networking for introverts",
+    title: "Reunion",
     description:
-      "We know: Networking is no fun if you are an introvert person. That's why we came up with this event - it'll be so much easier. Promised!",
+      "lorem epsum",
     location: "New Wall Street 5, 98765 New Work",
-    date: "2021-05-30",
+    date: "2022-08-30",
     image: "images/reunion.png",
     isFeatured: true,
   },
   {
     id: "e3",
-    title: "Networking for extroverts",
+    title: "Wedding",
     description:
-      "You probably need no help with networking in general. But focusing your energy correctly - that is something where most people can improve.",
+      "lorem epsum",
     location: "My Street 12, 10115 Broke City",
-    date: "2022-04-10",
+    date: "2023-04-10",
     image: "images/wedding.png",
     isFeatured: true,
   },

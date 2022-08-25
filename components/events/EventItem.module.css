@@ -1,0 +1,22 @@
+.actions {
+  display: flex;
+  flex-direction: column;
+  padding: 1rem;
+}
+
+.actions a {
+  display: block;
+}
+
+.actions a span {
+  vertical-align: middle;
+}
+
+
+
+@media (min-width: 768px) {
+  .actions {
+    flex-direction: row;
+    justify-content: flex-end;
+  }
+}
